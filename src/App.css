@@ -31,3 +31,40 @@
     transform: rotate(360deg);
   }
 }
+
+.emo-item {
+  border-radius: 8px;
+  margin: 15px auto;
+  width: 75%;
+  max-width: 600px;
+  padding: 10px 28px;
+  background: rgb(250, 250, 250);
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1);
+  text-align: start;
+  list-style: none;
+}
+
+.emotion {
+  max-width: 100px;
+}
+
+.graph1 {
+  width: 90%;
+  max-width: 600px;
+}
+
+.happy {
+  background-color: yellow;
+}
+
+.angry {
+  background-color: red;
+}
+
+.scared {
+  background-color: purple;
+}
+
+.sad {
+  background-color: blue;
+}
